@@ -1,11 +1,15 @@
-﻿# Calculator Exercise
+﻿# A ~beep-boop~ C# Calculator
 
 ---
 
 ## Description
 
-This is an exercise to ascertain, for me, some basic C#, how to use Visual Studio instead of VS Code, 
-and how to use Visual Studio in alignment with git
+A calculator that takes in 2 numbers and outputs a number based on the operation given.
+
+
+(This is an exercise to ascertain, for me, some basic C#, how to use Visual Studio instead of VS Code, 
+and how to use Visual Studio in alignment with git)
+
 🌈🌈🌈
 
 ---
