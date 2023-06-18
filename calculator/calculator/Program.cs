@@ -2,6 +2,13 @@
 
 public class ArithmeticOperations
 {
+
+    public static void Main(String[] args)
+    {
+        PerformOperation();
+
+    }
+
     public static void PerformOperation()
     {
         Console.WriteLine("beep boop calculator asks for first number");
