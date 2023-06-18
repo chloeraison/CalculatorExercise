@@ -43,7 +43,7 @@ public class ArithmeticOperations
             return;
         }
 
-        Console.WriteLine("calculator requires +, -, *, or /, boop boop");
+        Console.WriteLine("beep calculator requires +, -, *, or /, boop");
         string? operationInput = Console.ReadLine();
 
         if (string.IsNullOrEmpty(operationInput) || operationInput.Length != 1)
