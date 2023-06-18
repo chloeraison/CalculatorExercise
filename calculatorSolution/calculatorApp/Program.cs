@@ -16,14 +16,14 @@ public class ArithmeticOperations
 
         if (string.IsNullOrEmpty(input1))
         {
-            Console.WriteLine("Invalid input");
+            Console.WriteLine("Invalid input. Does not compute beep");
             return;
         }
 
         double num1;
         if (!double.TryParse(input1, out num1))
         {
-            Console.WriteLine("Invalid number format");
+            Console.WriteLine("Invalid number format. Does not compute beep");
             return;
         }
 
@@ -32,14 +32,14 @@ public class ArithmeticOperations
 
         if (string.IsNullOrEmpty(input2))
         {
-            Console.WriteLine("Invalid input");
+            Console.WriteLine("Invalid input. Does not compute beep");
             return;
         }
 
         double num2;
         if (!double.TryParse(input2, out num2))
         {
-            Console.WriteLine("Invalid number format");
+            Console.WriteLine("Invalid number format. Does not compute beep");
             return;
         }
 
@@ -48,7 +48,7 @@ public class ArithmeticOperations
 
         if (string.IsNullOrEmpty(operationInput) || operationInput.Length != 1)
         {
-            Console.WriteLine("Invalid operation input");
+            Console.WriteLine("Invalid operation input. Does not compute beep");
             return;
         }
 
@@ -75,7 +75,7 @@ public class ArithmeticOperations
                 break;
 
             default:
-                Console.WriteLine("Invalid operation");
+                Console.WriteLine("Does not compute.");
                 return;
         }
 
