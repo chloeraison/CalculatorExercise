@@ -35,6 +35,4 @@ To use this calculator program, you will need to: <br>
 
 ---
 
-🤖✨'*~-.,¸¸.-~·*'¨¯ Happy Mathing! ¯¨'*·~-.¸¸,.-~*'✨🤖
-
-<div style="text-align:center">Text to be centered</div>
+🤖✨'*.,¸¸.·*'¨¯ Happy Mathing! ¯¨'*·.¸¸,.*'✨🤖
