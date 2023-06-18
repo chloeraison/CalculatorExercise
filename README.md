@@ -1,4 +1,4 @@
-﻿# A ~beep-boop~ C# Calculator
+﻿# A beep-boop C# Calculator
 
 ---
 
