@@ -1,4 +1,6 @@
-﻿# Calculator Exercise
+﻿<center>
+
+# Calculator Exercise
 
 ---
 
@@ -19,10 +21,9 @@ To use this calculator program, you will need to: <br>
 3. Build and run the project
 4. Enter two numbers and an arithmetic operator (+, -, *, or /) when prompted
 5. See the result displayed on the console
-6. If error, input message states as such
+6. If an error occurs, an error message will be displayed
 
 ![falling down C3PO](https://media.tenor.com/6VG3tvOnl44AAAAC/seriously-let.gif)
-
 
 ---
 
@@ -30,7 +31,8 @@ To use this calculator program, you will need to: <br>
 + Basic arithmetic operations using C#
 + Console input and output using Console.ReadLine() and Console.WriteLine()
 + Conditional statements using if and switch
-+ String manipulation using string.IsNullOrEmpty(), string.Length and string.TryParse()
++ String manipulation using string.IsNullOrEmpty(), string.Length, and string.TryParse()
 
+🤖✨'*~-.,¸¸.-~·*'¨¯ Happy Mathing! ¯¨'*·~-.¸¸,.-~*'✨🤖
 
-<center>🤖✨'*~-.,¸¸.-~·*'¨¯ Happy Mathing! ¯¨'*·~-.¸¸,.-~*'✨🤖</center>
+</center>
