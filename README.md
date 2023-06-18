@@ -21,7 +21,8 @@ To use this calculator program, you will need to: <br>
 5. See the result displayed on the console
 6. If error, input message states as such
 
-<div class="tenor-gif-embed" data-postid="13129374" data-share-method="host" data-aspect-ratio="2.38095" data-width="100%"><a href="https://tenor.com/view/seriously-let-me-tell-you-gif-13129374">Seriously Let GIF</a>from <a href="https://tenor.com/search/seriously-gifs">Seriously GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![falling down C3PO](https://media.tenor.com/6VG3tvOnl44AAAAC/seriously-let.gif)
+
 
 ---
 
@@ -32,3 +33,4 @@ To use this calculator program, you will need to: <br>
 + String manipulation using string.IsNullOrEmpty(), string.Length and string.TryParse()
 
 
+<center>🤖✨'*~-.,¸¸.-~·*'¨¯ Happy Mathing! ¯¨'*·~-.¸¸,.-~*'✨🤖</center>
