@@ -1,6 +1,4 @@
-﻿<center>
-
-# Calculator Exercise
+﻿# Calculator Exercise
 
 ---
 
@@ -23,6 +21,8 @@ To use this calculator program, you will need to: <br>
 5. See the result displayed on the console
 6. If an error occurs, an error message will be displayed
 
+---
+
 ![falling down C3PO](https://media.tenor.com/6VG3tvOnl44AAAAC/seriously-let.gif)
 
 ---
@@ -33,6 +33,8 @@ To use this calculator program, you will need to: <br>
 + Conditional statements using if and switch
 + String manipulation using string.IsNullOrEmpty(), string.Length, and string.TryParse()
 
+---
+
 🤖✨'*~-.,¸¸.-~·*'¨¯ Happy Mathing! ¯¨'*·~-.¸¸,.-~*'✨🤖
 
-</center>
+<div style="text-align:center">Text to be centered</div>
